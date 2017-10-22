@@ -19,3 +19,4 @@ CMD ["java", "-classpath", "mysql-connector-java-5.1.39.jar:.","MainStarter"]
 #WORKDIR /sources  
 #RUN javac MainStarter.java
 #CMD ["java", "-classpath", "mysql-connector-java-5.1.39.jar:.","MainStarter"]
+#fdsfsdfdsfs
